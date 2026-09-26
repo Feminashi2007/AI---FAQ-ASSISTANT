@@ -1,5 +1,5 @@
 
-# **Project Title:** # 🤖 AI FAQ Assistant
+# **Project Title:**  🤖 AI FAQ Assistant
 
 ## 👥 Team Members
 
