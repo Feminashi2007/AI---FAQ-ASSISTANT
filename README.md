@@ -1,23 +1,15 @@
 
-# 🤖 AI FAQ Assistant
-
-## Naan Mudhalvan – Final Year Project
-
-### Team 09
-
-**Project Title:** AI FAQ Assistant
-
----
+# **Project Title:** # 🤖 AI FAQ Assistant
 
 ## 👥 Team Members
 
 | Role        | Name 
 |-------------|----------------
-| Team Lead   | Kaviya P. 
-| Team Member | Feminashi B. 
-| Team Member | Hemadharshini S. 
-| Team Member | Jayanthara V. 
-| Team Member | Jayashree S. 
+| Team Lead   | Kaviya.P 
+| Team Member | Feminashi.B 
+| Team Member | Hemadharshini.S 
+| Team Member | Jayanthara.V
+| Team Member | Jayashree.S 
 
 ---
 
